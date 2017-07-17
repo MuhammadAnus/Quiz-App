@@ -1,0 +1,160 @@
+#button2{
+display: none;
+}
+.radio{
+    display: none;
+}
+#result{
+    display: none;
+}
+
+#displayres{
+display: none;
+}
+#timer{
+    position: relative;
+}
+.main{
+       width: 900px;
+    height: 219px;
+    margin: 0 auto;
+    background-image: url("../images/background2.jpg");
+    word-wrap: break-word;
+    border-radius: 1075px;
+}
+.start{
+      position: relative;
+    top: 40px;
+    left: 27%;
+    margin: 0 auto;
+}
+body{
+ background-color: black;
+   font-style: serif;
+}
+.retake{
+     position: relative;
+    top: 44px;
+    left: -18%;
+    margin: 0 auto;
+    width: 90px;
+}
+.mid{
+    position: relative;
+    left: 18%;
+    top: 20px;
+    margin: 0 auto;
+}
+.ques{
+    width: 583px;
+}
+
+.radiodiv{
+    width: 583px;
+
+}
+button{
+       width: 90px;
+    background-color: green;
+    color: white;
+    border-radius: 17px;
+    height: 37px;
+    font-weight: bold;
+}
+
+.checkres{
+  position: relative;
+    top: 50px;
+    left: -18%;
+    margin: 0 auto;
+    width: 90px;
+}
+
+.result{
+    width: 200px;
+    position: relative;
+    left: 42%;
+    top: 30px;
+}
+
+.fontstyle{
+       font-weight: bolder;
+    font-size: 15px;
+}
+
+
+
+button:active{
+    background-color: red;
+    color: white;
+}
+
+
+.mainform{
+    position: relative;
+    left: 0%;
+    margin-left: auto;
+    margin-right: auto;
+   width: 320px;
+   height: 250px;
+    background-color: green;
+    border-radius: 10px;
+}
+
+.formone{
+    height: 20px;
+    border-radius: 5px;
+    width: 200px;
+    font-size: 16px;
+}
+input:focus{
+    background-color: pink;
+ 
+}
+td{
+    font-size: 25px;
+}
+.button{
+   height: 35px;
+}
+
+
+
+form{
+    position: relative;
+    top: 20%;
+}
+h1{
+    font-size: 20px;
+    position: relative;
+    left: 2%;
+}
+#timerheading{
+    /*display: none;*/
+    color: red;
+}
+#hour{
+ color: red
+}
+#sec{
+ color:  red
+}
+#min{
+ color:  red
+}
+
+
+
+
+.instructions{
+    color: white;
+}
+
+
+.insdiv{
+     width: 500px;
+    height: 219px;
+    margin: 0 auto;
+    word-wrap: break-word;
+    border-radius: 1075px;
+}
